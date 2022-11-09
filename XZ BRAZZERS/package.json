@@ -1,0 +1,19 @@
+{
+  "name": "xz-brazzers",
+  "version": "1.0.0",
+  "description": "by ELFERNANDOJB100#3909",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://discord.gg/cv8jJnK5"
+  },
+  "author": "ELFERNANDOJB100#3909",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "fs": "^0.0.1-security"
+  }
+}
